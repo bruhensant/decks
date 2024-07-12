@@ -3,97 +3,37 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
+        <card number="1" name="Obscura Storefront"/>
+        <card number="1" name="Glacial Chasm"/>
+        <card number="1" name="Field of the Dead"/>
+        <card number="1" name="Evolving Wilds"/>
         <card number="5" name="Forest"/>
         <card number="4" name="Swamp"/>
         <card number="1" name="Snow-Covered Swamp"/>
         <card number="4" name="Plains"/>
         <card number="1" name="Snow-Covered Plains"/>
-        <card number="1" name="Wooded Foothills"/>
-        <card number="1" name="Deceptive Landscape"/>
-        <card number="1" name="Obscura Storefront"/>
-        <card number="1" name="Evolving Wilds"/>
-        <card number="1" name="Nykthos, Shrine to Nyx"/>
-        <card number="1" name="Ebon Stronghold"/>
-        <card number="1" name="Memorial to Folly"/>
-        <card number="1" name="Spymaster's Vault"/>
-        <card number="1" name="Field of the Dead"/>
-        <card number="1" name="Emeria, the Sky Ruin"/>
-        <card number="1" name="Thespian's Stage"/>
         <card number="1" name="Shifting Woodland"/>
-        <card number="1" name="Echoing Deeps"/>
-        <card number="1" name="Godless Shrine"/>
-        <card number="1" name="Radiant Grove"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Haunted Mire"/>
+        <card number="1" name="Barren Moor"/>
+        <card number="1" name="Spymaster's Vault"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Emeria, the Sky Ruin"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Thespian's Stage"/>
+        <card number="1" name="Deceptive Landscape"/>
         <card number="1" name="Arctic Treeline"/>
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Scattered Groves"/>
-        <card number="1" name="Haunted Mire"/>
-        <card number="1" name="Barren Moor"/>
-        <card number="1" name="Tranquil Thicket"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Exotic Orchard"/>
-        <card number="1" name="Rosie Cotton of South Lane"/>
-        <card number="1" name="Sun Titan"/>
-        <card number="1" name="Emeria Shepherd"/>
-        <card number="1" name="Cauldron Familiar"/>
-        <card number="1" name="Blood Artist"/>
-        <card number="1" name="Braids, Arisen Nightmare"/>
-        <card number="1" name="Mirkwood Bats"/>
-        <card number="1" name="Ravenous Chupacabra"/>
-        <card number="1" name="Bone Miser"/>
-        <card number="1" name="Syr Konrad, the Grim"/>
-        <card number="1" name="Sheoldred, Whispering One"/>
-        <card number="1" name="Elvish Reclaimer"/>
-        <card number="1" name="Springheart Nantuko"/>
-        <card number="1" name="Bristly Bill, Spine Sower"/>
-        <card number="1" name="Azusa, Lost but Seeking"/>
-        <card number="1" name="Six"/>
-        <card number="1" name="Chatterfang, Squirrel General"/>
-        <card number="1" name="Nissa, Resurgent Animist"/>
-        <card number="1" name="Tireless Provisioner"/>
-        <card number="1" name="Endurance"/>
-        <card number="1" name="Courser of Kruphix"/>
-        <card number="1" name="Eternal Witness"/>
-        <card number="1" name="Sméagol, Helpful Guide"/>
-        <card number="1" name="Sowing Mycospawn"/>
-        <card number="1" name="Territory Culler"/>
-        <card number="1" name="Wight of the Reliquary"/>
-        <card number="1" name="Knight of Autumn"/>
-        <card number="1" name="Path to Exile"/>
-        <card number="1" name="Corrupted Conviction"/>
-        <card number="1" name="Insatiable Avarice"/>
-        <card number="1" name="Crop Rotation"/>
-        <card number="1" name="Green Sun's Zenith"/>
-        <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Eviscerator's Insight"/>
-        <card number="1" name="Lively Dirge"/>
-        <card number="1" name="Diabolic Intent"/>
-        <card number="1" name="Profane Command"/>
-        <card number="1" name="Beast Within"/>
-        <card number="1" name="Harrow"/>
-        <card number="1" name="Entish Restoration"/>
-        <card number="1" name="Cultivate"/>
-        <card number="1" name="Flare of Cultivation"/>
-        <card number="1" name="Toxic Deluge"/>
-        <card number="1" name="Victimize"/>
-        <card number="1" name="Force of Despair"/>
-        <card number="1" name="Dread Return"/>
-        <card number="1" name="Beseech the Mirror"/>
-        <card number="1" name="Culling Ritual"/>
-        <card number="1" name="Lich-Knights' Conquest"/>
+        <card number="1" name="Radiant Grove"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Fluctuator"/>
         <card number="1" name="Zuran Orb"/>
-        <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Skullclamp"/>
-        <card number="1" name="Burgeoning"/>
         <card number="1" name="Altar of Dementia"/>
-        <card number="1" name="Khalni Heart Expedition"/>
-        <card number="1" name="Hunting Grounds"/>
-        <card number="1" name="Retreat to Hagra"/>
-        <card number="1" name="Spelunking"/>
-        <card number="1" name="Bastion of Remembrance"/>
-        <card number="1" name="Phyrexian Arena"/>
-    </zone>
-    <zone name="side">
-        <card number="1" name="The Necrobloom"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Entish Restoration"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Anguished Unmaking"/>
     </zone>
 </cockatrice_deck>
