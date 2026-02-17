@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Forest" setShortName="TMT" collectorNumber="257" uuid="2f60db2d-7594-43af-8554-ba54e9023306"/>
+        <card number="5" name="Island" setShortName="TMT" collectorNumber="254" uuid="57d9b053-ed45-41f3-a0ab-0a08c41f587a"/>
+        <card number="5" name="Swamp" setShortName="TMT" collectorNumber="255" uuid="20f26dde-d1a3-4d0f-9ed9-cfcd9e4ce01e"/>
+        <card number="1" name="Tangled Islet" setShortName="DMU" collectorNumber="258" uuid="4a325fb4-fe71-47f1-9a2f-05b8cfe88fe6"/>
+        <card number="1" name="Darkwater Catacombs" setShortName="ODY" collectorNumber="319" uuid="2583b941-6156-4c4b-a068-0d0ac75a3dd3"/>
+        <card number="1" name="Woodland Cemetery" setShortName="DOM" collectorNumber="248" uuid="ba05cf47-9823-41f9-b893-321ea89e473e"/>
+        <card number="1" name="Tainted Wood" setShortName="TOR" collectorNumber="143" uuid="a20a35cc-69e5-42b8-b28c-ae5147451150"/>
+        <card number="1" name="Opulent Palace" setShortName="TDM" collectorNumber="264" uuid="21cb3b3b-0738-4c2e-a3fc-927fd6b9d3fb"/>
+        <card number="1" name="Temple of the False God" setShortName="SCG" collectorNumber="143" uuid="d7036f51-10a6-4036-8650-9bc12d2a55cb"/>
+        <card number="1" name="Fabled Passage" setShortName="BLB" collectorNumber="252" uuid="8809830f-d8e1-4603-9652-0ad8b00234e9"/>
+        <card number="1" name="Rimewood Falls" setShortName="KHM" collectorNumber="266" uuid="da1db084-f235-4e26-8867-5f0835a0d283"/>
+        <card number="1" name="Mariposa Military Base" setShortName="PIP" collectorNumber="151" uuid="cd7be9d4-f9fa-44a3-9902-7e9e226ccf56"/>
+        <card number="1" name="Karn's Bastion" setShortName="WAR" collectorNumber="248" uuid="b9d895af-7e8c-419f-bc5d-5596083fbfb6"/>
+        <card number="1" name="Mortuary Mire" setShortName="BFZ" collectorNumber="240" uuid="c6b31722-9626-4fea-9971-54c9aa8238e8"/>
+        <card number="1" name="Sunken Hollow" setShortName="BFZ" collectorNumber="249" uuid="0dd1726f-b899-491a-8b0e-8e3d25f17d3d"/>
+        <card number="1" name="Evolving Wilds" setShortName="ECL" collectorNumber="264" uuid="8c632984-5176-4c37-91df-6577cc294b85"/>
+        <card number="1" name="Breeding Pool" setShortName="EOE" collectorNumber="251" uuid="3c750d5a-f743-41ff-b5ba-02025ca0bec2"/>
+        <card number="1" name="Overgrown Tomb" setShortName="ECL" collectorNumber="266" uuid="45b92924-baa1-4c9b-9932-9a5eda8f3446"/>
+        <card number="1" name="Hinterland Harbor" setShortName="DOM" collectorNumber="240" uuid="d631d040-51e9-4540-91e7-aeb5ade84090"/>
+        <card number="1" name="Zagoth Triome" setShortName="IKO" collectorNumber="259" uuid="cc520518-2063-4b57-a0d4-10cf62a7175e"/>
+        <card number="1" name="Command Tower" setShortName="ELD" collectorNumber="333" uuid="ec1f1041-f667-4b73-b1f2-e5bcae84095e"/>
+        <card number="1" name="Tainted Isle" setShortName="TOR" collectorNumber="141" uuid="b462e121-015c-49c4-838a-ab788f213322"/>
+        <card number="1" name="Exotic Orchard" setShortName="CON_" collectorNumber="142" uuid="6aae6480-4e71-4d94-a648-f80d3849d792"/>
+        <card number="1" name="Nesting Grounds" setShortName="ECC" collectorNumber="155" uuid="c25ad164-4076-496d-833c-d607391b1ac8"/>
+        <card number="1" name="Path of Ancestry" setShortName="ECC" collectorNumber="158" uuid="3b792a6a-beac-4d4a-91b6-f5a5e3539ecd"/>
+        <card number="1" name="Drowned Catacomb" setShortName="XLN" collectorNumber="253" uuid="8ef728f1-5153-47d6-8f9c-dfd473ee0750"/>
+        <card number="1" name="Fetid Pools" setShortName="AKH" collectorNumber="243" uuid="ae703d94-6f1f-463b-ab25-1b3f462e7e78"/>
+        <card number="1" name="Sol Ring" setShortName="SUM" collectorNumber="274" uuid="9138d11a-d55f-4c46-bb27-7e8e15a44e8c"/>
+        <card number="1" name="Reanimate" setShortName="TMP" collectorNumber="151" uuid="ae1ef31c-8ca5-444c-8f39-e1d1827318f5"/>
+        <card number="1" name="Carpet of Flowers" setShortName="USG" collectorNumber="240" uuid="93abb48a-85f2-432d-8602-0a1d17fbb409"/>
+        <card number="1" name="Altar of the Brood" setShortName="KTK" collectorNumber="216" uuid="8d59d264-87ee-4305-bffb-110549331a82"/>
+        <card number="1" name="Hardened Scales" setShortName="KTK" collectorNumber="133" uuid="7dcdf1db-bfaf-4160-8003-1fa2e56b00dc"/>
+        <card number="1" name="Farseek" setShortName="M13" collectorNumber="170" uuid="f9b69d33-96dd-4844-aefa-27a885cb2ffc"/>
+        <card number="1" name="Vexing Radgull" setShortName="PIP" collectorNumber="41" uuid="91580910-fe0e-4cd9-9e73-821af23abfe7"/>
+        <card number="1" name="Emperor of Bones" setShortName="MH3" collectorNumber="90" uuid="df9d9075-2d1e-4848-b661-816d539e05eb"/>
+        <card number="1" name="Nuka-Nuke Launcher" setShortName="PIP" collectorNumber="138" uuid="68d5835b-c206-4884-bdcf-38c7cdc703f4"/>
+        <card number="1" name="Talisman of Dominance" setShortName="MRD" collectorNumber="253" uuid="991037a2-fea2-49f5-8ace-ebbf9f678cff"/>
+        <card number="1" name="Gnarlid Colony" setShortName="FDN" collectorNumber="224" uuid="47565d10-96bf-4fb0-820f-f20a44a76b6f"/>
+        <card number="1" name="Nuclear Fallout" setShortName="PIP" collectorNumber="47" uuid="e717e4b0-a8c1-4411-b18a-1d17e7225503"/>
+        <card number="1" name="Mesmeric Orb" setShortName="MRD" collectorNumber="204" uuid="29d11b14-43a9-4d1c-ba2c-3025d51d841e"/>
+        <card number="1" name="Contaminated Drink" setShortName="PIP" collectorNumber="99" uuid="bde9eb15-544a-462a-8ab8-86067840c083"/>
+        <card number="1" name="Fiend Artisan" setShortName="IKO" collectorNumber="220" uuid="6cd9d800-6d31-42e2-87d2-772db0ff95ed"/>
+        <card number="1" name="Rampant Growth" setShortName="M12" collectorNumber="190" uuid="fe45a787-6d8a-48d7-ad6c-fb20a9b468a4"/>
+        <card number="1" name="Arcane Signet" setShortName="ELD" collectorNumber="331" uuid="84128e98-87d6-4c2f-909b-9435a7833e63"/>
+        <card number="1" name="Talisman of Resilience" setShortName="SOC" collectorNumber="432" uuid="b37ba764-8dae-4be1-9939-969067d215af"/>
+        <card number="1" name="Zellix, Sanity Flayer" setShortName="CLB" collectorNumber="619" uuid="ba00ab71-f686-46eb-af3a-7d70f22e13b6"/>
+        <card number="1" name="Garruk's Uprising" setShortName="FDN" collectorNumber="220" uuid="4805c303-e73b-443b-a09f-49d2c2c88bb5"/>
+        <card number="1" name="Putrefy" setShortName="DGM" collectorNumber="93" uuid="0d43a0b6-2a5c-4959-96ee-6e570949dfed"/>
+        <card number="1" name="Glowing One" setShortName="PIP" collectorNumber="76" uuid="a1e36b92-aa88-4536-aebc-7e84a10d73fe"/>
+        <card number="1" name="Bred for the Hunt" setShortName="DGM" collectorNumber="59" uuid="4258a536-2275-45e8-8833-e921ca15c5a7"/>
+        <card number="1" name="Inspiring Call" setShortName="FDN" collectorNumber="226" uuid="3e241642-5172-4437-b694-f6aa159d5cd9"/>
+        <card number="1" name="Dreamtide Whale" setShortName="MH3" collectorNumber="59" uuid="fd7dc03e-2a61-482a-b7eb-6cdb7f375fd8"/>
+        <card number="1" name="Cultivate" setShortName="M21" collectorNumber="177" uuid="4a433310-3fe2-4156-864d-7a6b2638340b"/>
+        <card number="1" name="Tato Farmer" setShortName="PIP" collectorNumber="86" uuid="907bade4-7232-4808-af5c-2dbed4d5bf07"/>
+        <card number="1" name="Evolution Witness" setShortName="MH3" collectorNumber="151" uuid="4d89283e-9783-4006-9294-4ae0473d2ce6"/>
+        <card number="1" name="Kami of Whispered Hopes" setShortName="MOM" collectorNumber="196" uuid="5c644650-3861-4a78-9e39-a413b073ddac"/>
+        <card number="1" name="Wrenn and Realmbreaker" setShortName="MOM" collectorNumber="217" uuid="6f807d91-b157-44e8-a431-49782184f876"/>
+        <card number="1" name="Infesting Radroach" setShortName="PIP" collectorNumber="46" uuid="5b51b691-e226-44c9-b7cb-26f19c060597"/>
+        <card number="1" name="Feral Ghoul" setShortName="PIP" collectorNumber="44" uuid="fbdef99d-6ce9-495d-a55b-e6ba799d3da7"/>
+        <card number="1" name="Court of Cunning" setShortName="CMR" collectorNumber="63" uuid="2f585f52-7b07-4453-b543-9654d314aa36"/>
+        <card number="1" name="Mutational Advantage" setShortName="PIP" collectorNumber="111" uuid="b1ff92f1-9dc7-48e6-9e7c-9ef4a88518cb"/>
+        <card number="1" name="Branching Evolution" setShortName="MH3" collectorNumber="285" uuid="c0f1a736-8b12-4f58-a031-bf1733f65c51"/>
+        <card number="1" name="Uro, Titan of Nature's Wrath" setShortName="THB" collectorNumber="229" uuid="a0b6a71e-56cb-4d25-8f2b-7a4f1b60900d"/>
+        <card number="1" name="Bloatfly Swarm" setShortName="PIP" collectorNumber="42" uuid="2d90b839-0808-435d-bcf3-aa7af414c44b"/>
+        <card number="1" name="Lasyd Prowler" setShortName="TDM" collectorNumber="149" uuid="c7f5c8ef-8e9e-4264-a7d2-126a30a5d341"/>
+        <card number="1" name="Radstorm" setShortName="PIP" collectorNumber="37" uuid="d778cdec-8fc7-4174-bae1-4c8e8ccdfab3"/>
+        <card number="1" name="Glen Elendra Archmage" setShortName="EVE" collectorNumber="22" uuid="09516d3d-e6c2-4359-af2a-a4aa244ca033"/>
+        <card number="1" name="Sothera, the Supervoid" setShortName="EOE" collectorNumber="115" uuid="e99d6fc0-dcf2-4b25-81c2-02c230a36246"/>
+        <card number="1" name="Atomize" setShortName="PIP" collectorNumber="94" uuid="592cbafc-ab4e-461f-b64f-0bf9d83aaff3"/>
+        <card number="1" name="Danny Pink" setShortName="WHO" collectorNumber="39" uuid="bf5e0a50-304c-4b3f-b5f7-1ca1213c0282"/>
+        <card number="1" name="Guardian Project" setShortName="RNA" collectorNumber="130" uuid="ccad6ce0-ddf0-458d-bdae-3d7805fdc775"/>
+        <card number="1" name="Sidisi, Brood Tyrant" setShortName="KTK" collectorNumber="199" uuid="ffa2b070-952e-4242-83bb-3e73135ceeeb"/>
+        <card number="1" name="Struggle for Project Purity" setShortName="PIP" collectorNumber="39" uuid="04c60155-9337-4ea2-b9a2-5b72d96743ff"/>
+        <card number="1" name="Dread Return" setShortName="TSP" collectorNumber="104" uuid="d7e304fc-0ace-459e-8d2f-376f1899639c"/>
+        <card number="1" name="The Master, Transcendent" setShortName="PIP" collectorNumber="6" uuid="5b0497da-670a-405c-a39c-97cae7942836"/>
+        <card number="1" name="Tezzeret's Gambit" setShortName="NPH" collectorNumber="47" uuid="fff5a09e-9276-44b8-b374-4b84aebd47cc"/>
+        <card number="1" name="Ezuri, Stalker of Spheres" setShortName="ONE" collectorNumber="201" uuid="d38961ce-0257-412f-acec-c5c9886061f8"/>
+        <card number="1" name="Inexorable Tide" setShortName="SOM" collectorNumber="35" uuid="8f41e281-fcbb-450b-8a67-7b072c55c6f0"/>
+        <card number="1" name="Herd Baloth" setShortName="J21" collectorNumber="584" uuid="523262d4-0508-4f29-9169-da2fe69d4083"/>
+        <card number="1" name="Mirelurk Queen" setShortName="PIP" collectorNumber="33" uuid="6e6d1843-9e05-4cdd-ad4e-15d7913d87f7"/>
+        <card number="1" name="Contagion Engine" setShortName="SOM" collectorNumber="145" uuid="dce72636-08e4-484e-ad81-4d1597a31ffb"/>
+        <card number="1" name="Casualties of War" setShortName="WAR" collectorNumber="187" uuid="08fc5e50-c6f7-41ec-815a-5667eefded78"/>
+        <card number="1" name="Metamorphosis Fanatic" setShortName="DSC" collectorNumber="21" uuid="16448d95-ee21-4def-b880-26f6f159c213"/>
+        <card number="1" name="Muldrotha, the Gravetide" setShortName="FDN" collectorNumber="243" uuid="51710b19-68e3-4853-901f-e618bde61161"/>
+        <card number="1" name="Screeching Scorchbeast" setShortName="PIP" collectorNumber="49" uuid="967dbb24-3073-4c33-bfdf-b3eb9e8fe443"/>
+        <card number="1" name="Alpha Deathclaw" setShortName="PIP" collectorNumber="91" uuid="ca4c8b04-66af-4cb3-8003-9088d8344b20"/>
+        <card number="1" name="Strong, the Brutish Thespian" setShortName="PIP" collectorNumber="84" uuid="2bc79ed6-057b-439f-b2cd-58d5bcd8b551"/>
+        <card number="1" name="Agent Frank Horrigan" setShortName="PIP" collectorNumber="89" uuid="91193a0b-9087-404f-b397-815e29d0fe12"/>
+        <card number="1" name="Talisman of Curiosity" setShortName="SOC" collectorNumber="430" uuid="30e1d7e2-e1a5-443c-86c4-ff4e18933853"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="The Wise Mothman" setShortName="PIP" collectorNumber="4" uuid="3d6d6944-a364-41c2-b824-7a1bf6ad0d1e"/>
+    </zone>
+</cockatrice_deck>
