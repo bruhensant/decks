@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="side">
+        <card number="1" name="Greasefang, Okiba Boss" setShortName="NEO" collectorNumber="220" uuid="56a0d43b-4d38-40a7-be6c-8324ab3bf773"/>
+    </zone>
+    <zone name="main">
+        <card number="6" name="Plains" setShortName="TMT" collectorNumber="253" uuid="ec9ecf19-9f9d-4642-ac70-ddc08fad7e17"/>
+        <card number="7" name="Swamp" setShortName="TMT" collectorNumber="255" uuid="20f26dde-d1a3-4d0f-9ed9-cfcd9e4ce01e"/>
+        <card number="1" name="Caves of Koilos" setShortName="DMU" collectorNumber="244" uuid="99264beb-2149-4cd4-9880-f0dc5c570c1b"/>
+        <card number="1" name="Flooded Strand" setShortName="KTK" collectorNumber="233" uuid="8c2996d9-3287-4480-8c04-7a378e37e3cf"/>
+        <card number="1" name="Godless Shrine" setShortName="EOE" collectorNumber="254" uuid="8c542ea4-98c3-4c2d-9066-205ab7aa697a"/>
+        <card number="1" name="Isolated Chapel" setShortName="DOM" collectorNumber="241" uuid="a1d95d37-5dbe-4a25-bc80-a4db08f3c63a"/>
+        <card number="1" name="Tainted Field" setShortName="TOR" collectorNumber="140" uuid="75b5f0aa-1570-4064-ad20-aac7be8b2c9c"/>
+        <card number="1" name="Bleachbone Verge" setShortName="DFT" collectorNumber="250" uuid="52dcdabd-a186-45fe-9fee-6c0f1afeaf16"/>
+        <card number="1" name="Evolving Wilds" setShortName="ECL" collectorNumber="264" uuid="8c632984-5176-4c37-91df-6577cc294b85"/>
+        <card number="1" name="Fomori Vault" setShortName="BIG" collectorNumber="29" uuid="a5433b98-4657-4bbe-9e72-d3c94c6aa8ef"/>
+        <card number="1" name="Exotic Orchard" setShortName="CON_" collectorNumber="142" uuid="6aae6480-4e71-4d94-a648-f80d3849d792"/>
+        <card number="1" name="Eden, Seat of the Sanctum" setShortName="FIN" collectorNumber="277" uuid="e28eac1e-adc7-4f8d-b206-bef09ba07d38"/>
+        <card number="1" name="Monumental Henge" setShortName="MH3" collectorNumber="222" uuid="62907e7b-e531-4f51-9a69-7e60ae525775"/>
+        <card number="1" name="Obscura Storefront" setShortName="SNC" collectorNumber="252" uuid="1016b884-9a4c-41de-bd65-14271f4f6f9a"/>
+        <card number="1" name="Snowfield Sinkhole" setShortName="KHM" collectorNumber="269" uuid="6611dc5e-6acc-48df-b8c4-4b327314578b"/>
+        <card number="1" name="Temple of Silence" setShortName="FDN" collectorNumber="704" uuid="408ad759-052a-4949-9adf-7541cb2ef77e"/>
+        <card number="1" name="Country Roads" setShortName="DFT" collectorNumber="253" uuid="897acd91-12ba-4fa8-a26e-c09f009167a8"/>
+        <card number="1" name="Vault of Whispers" setShortName="MRD" collectorNumber="286" uuid="73866487-33f4-4f64-b100-2c4ddadcd74e"/>
+        <card number="1" name="Spire of Industry" setShortName="AER" collectorNumber="184" uuid="8331724d-6fab-454a-b06c-b06e499fa552"/>
+        <card number="1" name="Avishkar Raceway" setShortName="DFT" collectorNumber="249" uuid="08a6b378-c7fa-4226-a310-4ee7e550b4d6"/>
+        <card number="1" name="Command Tower" setShortName="ELD" collectorNumber="333" uuid="ec1f1041-f667-4b73-b1f2-e5bcae84095e"/>
+        <card number="1" name="Sol Ring" setShortName="SUM" collectorNumber="274" uuid="9138d11a-d55f-4c46-bb27-7e8e15a44e8c"/>
+        <card number="1" name="Wayfarer's Bauble" setShortName="5DN" collectorNumber="165" uuid="3db8fc1d-69fa-4a88-8f12-11fd614aac01"/>
+        <card number="1" name="The Last Ride" setShortName="DFT" collectorNumber="94" uuid="9cbb7b4e-bd32-44a0-9396-16738c5e4381"/>
+        <card number="1" name="Monoist Sentry" setShortName="EOE" collectorNumber="111" uuid="acc503e2-5c3a-4200-beb0-7d193d6c869e"/>
+        <card number="1" name="Viscera Seer" setShortName="M11" collectorNumber="120" uuid="6179f847-e334-4f7f-9a4e-0013942a394f"/>
+        <card number="1" name="Doomsday Confluence" setShortName="WHO" collectorNumber="67" uuid="a4e86622-6f30-41b2-87d0-d345110e2387"/>
+        <card number="1" name="Dusk Rose Reliquary" setShortName="LCI" collectorNumber="10" uuid="a5f231ef-4167-4b0a-b54c-a098b2eb2f6f"/>
+        <card number="1" name="Loran's Escape" setShortName="BRO" collectorNumber="14" uuid="3765610d-a0c1-4de9-a81b-ffa3eb06454b"/>
+        <card number="1" name="Swords to Plowshares" setShortName="ICE" collectorNumber="54" uuid="375fd2cb-443b-4be4-ad60-6d1a8e74f510"/>
+        <card number="1" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+        <card number="1" name="Strionic Resonator" setShortName="M14" collectorNumber="224" uuid="94d1fc0f-5c8b-4e47-aaf8-8888c025f70f"/>
+        <card number="1" name="Lightning Greaves" setShortName="MRD" collectorNumber="199" uuid="61a28870-cf78-4323-9d82-cee764067764"/>
+        <card number="1" name="Talisman of Hierarchy" setShortName="SOC" collectorNumber="431" uuid="985cba27-769d-4f69-ab97-959be58932db"/>
+        <card number="1" name="Arcane Signet" setShortName="ELD" collectorNumber="331" uuid="84128e98-87d6-4c2f-909b-9435a7833e63"/>
+        <card number="1" name="Smuggler's Copter" setShortName="KLD" collectorNumber="235" uuid="7832abb5-5107-4603-904e-491b221bd3e3"/>
+        <card number="1" name="Guidelight Matrix" setShortName="DFT" collectorNumber="233" uuid="cccf7fb5-c043-4a1f-ad2f-edb280cb5037"/>
+        <card number="1" name="Mind Stone" setShortName="10E" collectorNumber="335" uuid="52284689-f2e0-442d-80d0-9e766759e2bc"/>
+        <card number="1" name="Tarrian's Journal" setShortName="LCI" collectorNumber="126" uuid="99255a66-b868-45fc-a2a9-0c89bd851b69"/>
+        <card number="1" name="Ransack the Lab" setShortName="J21" collectorNumber="378" uuid="f5d4c695-a2ac-4acc-8641-d1d6278077e0"/>
+        <card number="1" name="Thran Vigil" setShortName="BRO" collectorNumber="114" uuid="3faed400-0712-4fc1-b710-144db40a5e11"/>
+        <card number="1" name="Damn" setShortName="DRC" collectorNumber="89" uuid="1b25c224-4531-4fdc-9845-6663eaf60540"/>
+        <card number="1" name="Starfighter Pilot" setShortName="EOE" collectorNumber="38" uuid="1e571246-aadc-4d1f-a284-9a529e150fe0"/>
+        <card number="1" name="Interface Ace" setShortName="DFT" collectorNumber="17" uuid="fcfd487a-a9e6-44e3-80af-bc384316106f"/>
+        <card number="1" name="Fracture" setShortName="STX" collectorNumber="188" uuid="a11224f8-06ea-4ec3-85e6-d5c8d906840c"/>
+        <card number="1" name="Dune Drifter" setShortName="DFT" collectorNumber="200" uuid="36185de4-55c2-4e5d-9bcc-ea12b7052728"/>
+        <card number="1" name="Laser Screwdriver" setShortName="WHO" collectorNumber="178" uuid="9e646af0-1a7a-4e2c-83ba-78e748737846"/>
+        <card number="1" name="Commander's Sphere" setShortName="ECC" collectorNumber="139" uuid="a0d50603-e31f-4cd7-b4b6-49847d99eb2e"/>
+        <card number="1" name="Losheel, Clockwork Scholar" setShortName="BRC" collectorNumber="73" uuid="92bc35a8-1337-43da-a002-71f5a85e8853"/>
+        <card number="1" name="Tempered Steel" setShortName="SOM" collectorNumber="24" uuid="6661b39d-505a-48f4-bc06-59084c6a3b0c"/>
+        <card number="1" name="Unidentified Hovership" setShortName="DSK" collectorNumber="37" uuid="bd23f168-9ad0-4b4e-bfff-ae004c163727"/>
+        <card number="1" name="Monologue Tax" setShortName="DSC" collectorNumber="100" uuid="4ba2c9b9-06bc-4bf2-8df5-f0748fb2b8eb"/>
+        <card number="1" name="Cloudspire Captain" setShortName="DFT" collectorNumber="9" uuid="3380d87a-c460-409c-8d47-9b2fc5ddd2ea"/>
+        <card number="1" name="Sidequest: Catch a Fish" setShortName="FIN" collectorNumber="31" uuid="bdb5452e-d97f-409b-91d0-2664f39b09b8"/>
+        <card number="1" name="Come Back Wrong" setShortName="DSK" collectorNumber="86" uuid="72ee3b45-aa4e-4c5b-a9e6-608bfbd93f8b"/>
+        <card number="1" name="Carrion Cruiser" setShortName="DFT" collectorNumber="78" uuid="dc00fdee-3d24-4360-a4d2-ffd3c08a462d"/>
+        <card number="1" name="Stinkweed Imp" setShortName="RAV" collectorNumber="107" uuid="628903a0-6695-4643-80f3-9a6efc4d6a27"/>
+        <card number="1" name="The Toymaker's Trap" setShortName="WHO" collectorNumber="72" uuid="381de078-6eac-462c-b6d9-095779279d42"/>
+        <card number="1" name="Lurrus of the Dream-Den" setShortName="IKO" collectorNumber="226" uuid="5ad36fb2-c44e-4085-ba0d-54277841ad3a"/>
+        <card number="1" name="Recon Craft Theta" setShortName="PIP" collectorNumber="141" uuid="21aa59d3-e786-4ba0-9802-01b57597cda2"/>
+        <card number="1" name="Weatherlight" setShortName="DOM" collectorNumber="237" uuid="d4581fc0-551c-4ee5-bde0-65c2b8cdf1b7"/>
+        <card number="1" name="Living Brain, Mechanical Marvel" setShortName="SPM" collectorNumber="167" uuid="26833b64-2e6d-4977-9a6e-6fe73c54d671"/>
+        <card number="1" name="Midnight Crusader Shuttle" setShortName="WHO" collectorNumber="179" uuid="0a8dcf01-8e2c-439c-81c4-650dd01ecb65"/>
+        <card number="1" name="Tune Up" setShortName="DFT" collectorNumber="33" uuid="f8bddc5f-8f25-4313-b5bb-e5eae2923878"/>
+        <card number="1" name="Magitek Armor" setShortName="FIN" collectorNumber="24" uuid="59c4a1a2-623c-43b2-8005-ecb5c6436c10"/>
+        <card number="1" name="Swarm Culler" setShortName="EOE" collectorNumber="119" uuid="2a8f583c-88b6-4797-b93e-3086845fc326"/>
+        <card number="1" name="Yawgmoth, Thran Physician" setShortName="J21" collectorNumber="405" uuid="f902a1cd-d04f-4a8c-9aed-a618d0a2e2fa"/>
+        <card number="1" name="The Fire Nation Drill" setShortName="TLA" collectorNumber="98" uuid="54d762f6-e131-480f-b294-10f5a63d9c98"/>
+        <card number="1" name="Phoenix Fleet Airship" setShortName="TLA" collectorNumber="114" uuid="b51d3259-c41c-4f64-9666-0a9e676c812f"/>
+        <card number="1" name="Conjurer's Closet" setShortName="AVR" collectorNumber="214" uuid="7378e998-0382-42fc-8606-c6e7fc04b6a4"/>
+        <card number="1" name="Skybox Ferry" setShortName="DFT" collectorNumber="243" uuid="75d9ef34-ae95-4465-a30c-372e231bd733"/>
+        <card number="1" name="Argentum Masticore" setShortName="ONE" collectorNumber="222" uuid="9746e3ab-c0a6-46c1-a418-275b419962e4"/>
+        <card number="1" name="Bone Miser" setShortName="C19" collectorNumber="15" uuid="a7fa6901-e74f-448c-9d26-99a692092512"/>
+        <card number="1" name="Back on Track" setShortName="DFT" collectorNumber="76" uuid="884c0032-9c62-4028-a55f-6a3da2545654"/>
+        <card number="1" name="Beacon of Unrest" setShortName="10E" collectorNumber="129" uuid="1ee97c64-39ab-4967-a7e4-3fc5e793d534"/>
+        <card number="1" name="Blasphemous Edict" setShortName="FDN" collectorNumber="57" uuid="11040ecd-3153-4029-b42b-1441bc51ec34"/>
+        <card number="1" name="Salvation Engine" setShortName="DFT" collectorNumber="27" uuid="34ed1bf2-0f3c-4528-b570-e5bdcd7ffda9"/>
+        <card number="1" name="Broadcast Rambler" setShortName="DFT" collectorNumber="6" uuid="89ce2385-e33d-47b3-96c8-5a4672d9df7c"/>
+        <card number="1" name="Eirdu, Carrier of Dawn" setShortName="ECL" collectorNumber="13" uuid="b2d9d5ca-7e15-437a-bdfc-5972b42148fe"/>
+        <card number="1" name="Cybership" setShortName="WHO" collectorNumber="177" uuid="b0b9d006-7179-4d59-88ef-34b4d4b2e2fc"/>
+        <card number="1" name="Detention Chariot" setShortName="DFT" collectorNumber="12" uuid="75d5e64f-7af2-4cb4-abd1-23992e346bee"/>
+        <card number="1" name="Cybermen Squadron" setShortName="WHO" collectorNumber="176" uuid="7ce660ef-0c6f-413d-8ddd-b755a19ab731"/>
+        <card number="1" name="Breach the Multiverse" setShortName="MOM" collectorNumber="94" uuid="daf51a76-7a57-4462-ae18-a19e817e49e5"/>
+        <card number="1" name="Demonic Junker" setShortName="DFT" collectorNumber="83" uuid="4aad569e-4acb-4416-9d4f-64e6991de3ed"/>
+        <card number="1" name="Dalek Drone" setShortName="WHO" collectorNumber="64" uuid="ba77763c-b50c-4787-b352-68af16e4c741"/>
+        <card number="1" name="Valor's Flagship" setShortName="DFT" collectorNumber="35" uuid="8af1dddf-6c95-448b-acc8-df5a99202e9a"/>
+        <card number="1" name="Vanquish the Horde" setShortName="MID" collectorNumber="41" uuid="e264615c-eb99-4cb3-844a-2b4a94ba5203"/>
+        <card number="1" name="Redress Fate" setShortName="DSC" collectorNumber="9" uuid="19f56096-f692-4719-af38-6a4955f2b65c"/>
+    </zone>
+</cockatrice_deck>
