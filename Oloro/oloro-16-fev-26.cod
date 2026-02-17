@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <lastLoadedTimestamp>Tue Feb 17 15:13:29 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId=""></bannerCard>
     <comments></comments>
@@ -25,19 +25,15 @@
         <card number="1" name="Hall of Heliod's Generosity" setShortName="DSC" collectorNumber="283" uuid="f08dfd99-59fa-4a6c-bd69-c647f639de4d"/>
         <card number="1" name="Sunken Hollow" setShortName="BFZ" collectorNumber="249" uuid="0dd1726f-b899-491a-8b0e-8e3d25f17d3d"/>
         <card number="1" name="Sea of Clouds" setShortName="CLB" collectorNumber="360" uuid="d4fb722f-40af-4bd1-b660-e8186b98f233"/>
-        <card number="1" name="Ominous Cemetery" setShortName="WHO" collectorNumber="189" uuid="2e843c57-fae3-4127-94e7-cad8c8bb9486"/>
         <card number="1" name="Adarkar Wastes" setShortName="DMU" collectorNumber="243" uuid="08ae1037-6f70-41a9-b75e-98fa9a2152c8"/>
         <card number="1" name="Prairie Stream" setShortName="BFZ" collectorNumber="241" uuid="9625911f-1dd3-4044-ac06-3c0c3198b6fd"/>
         <card number="1" name="Drowned Catacomb" setShortName="XLN" collectorNumber="253" uuid="8ef728f1-5153-47d6-8f9c-dfd473ee0750"/>
-        <card number="1" name="Fountainport" setShortName="BLB" collectorNumber="253" uuid="658cfcb7-81b7-48c6-9dd2-1663d06108cf"/>
         <card number="1" name="Exotic Orchard" setShortName="CON_" collectorNumber="142" uuid="6aae6480-4e71-4d94-a648-f80d3849d792"/>
         <card number="1" name="Hallowed Fountain" setShortName="ECL" collectorNumber="265" uuid="e056b55f-82ed-4fe0-ab0c-bb20fa4a218a"/>
         <card number="1" name="Tainted Isle" setShortName="TOR" collectorNumber="141" uuid="b462e121-015c-49c4-838a-ab788f213322"/>
         <card number="1" name="Valgavoth's Lair" setShortName="DSK" collectorNumber="271" uuid="65ff914e-3f3e-4b7a-b69d-73575b68fb8e"/>
-        <card number="1" name="Barad-dûr" setShortName="LTR" collectorNumber="253" uuid="eb5038af-06b0-401e-8dea-a1a8483788ae"/>
         <card number="1" name="Resurgent Belief" setShortName="MH2" collectorNumber="26" uuid="01880c6f-be00-48b5-913f-ec6c80ced184"/>
         <card number="1" name="Sol Ring" setShortName="SUM" collectorNumber="274" uuid="9138d11a-d55f-4c46-bb27-7e8e15a44e8c"/>
-        <card number="1" name="Vexing Bauble" setShortName="MH3" collectorNumber="212" uuid="29f11089-658f-42e6-aeb0-09b512ad2479"/>
         <card number="1" name="Authority of the Consuls" setShortName="FDN" collectorNumber="137" uuid="42ce2d7f-5924-47c0-b5ed-dacf9f9617a0"/>
         <card number="1" name="Land Tax" setShortName="4ED" collectorNumber="34" uuid="1301e203-7d9a-4735-8db3-7882ad70d343"/>
         <card number="1" name="Enlightened Tutor" setShortName="6ED" collectorNumber="19" uuid="e869da95-2c47-4796-aadc-50652ebb4d03"/>
@@ -45,7 +41,6 @@
         <card number="1" name="Talisman of Dominance" setShortName="MRD" collectorNumber="253" uuid="991037a2-fea2-49f5-8ace-ebbf9f678cff"/>
         <card number="1" name="Arcane Signet" setShortName="ELD" collectorNumber="331" uuid="84128e98-87d6-4c2f-909b-9435a7833e63"/>
         <card number="1" name="Talisman of Progress" setShortName="MRD" collectorNumber="256" uuid="41ff849e-2439-4690-8aa4-769039b6da4c"/>
-        <card number="1" name="Torpor Orb" setShortName="BIG" collectorNumber="27" uuid="dbf02a38-d10d-463e-ab99-e7fd848a1bd3"/>
         <card number="1" name="The Meathook Massacre" setShortName="MID" collectorNumber="112" uuid="08950015-eee5-4327-888c-82dfd13bb9ad"/>
         <card number="1" name="Balemurk Leech" setShortName="DSK" collectorNumber="84" uuid="f0621b32-95c5-4f70-96cf-d46d20efc85d"/>
         <card number="1" name="Bitterblossom" setShortName="MOR" collectorNumber="58" uuid="8145fed6-6b51-420a-84cf-4ea5e0aa1883"/>
@@ -78,16 +73,13 @@
         <card number="1" name="Cramped Vents // Access Maze" setShortName="DSC" collectorNumber="17" uuid="7ba1e27e-ed0d-438c-9ec6-a48a04718512"/>
         <card number="1" name="Meathook Massacre II" setShortName="DSK" collectorNumber="108" uuid="3db59d06-a226-42b2-8f01-6b63a6eea83f"/>
         <card number="1" name="Snuff Out" setShortName="MMQ" collectorNumber="162" uuid="18a3cca1-e50e-49b6-9e1a-f86640e3b177"/>
-        <card number="1" name="Starving Revenant" setShortName="LCI" collectorNumber="123" uuid="f25ea466-eb48-4c4c-b5d4-35f58e46ebe1"/>
         <card number="1" name="Bloodletter of Aclazotz" setShortName="LCI" collectorNumber="92" uuid="d4f6027a-003a-4f9d-929a-0b6da1fa42c9"/>
-        <card number="1" name="Gixian Puppeteer" setShortName="BRO" collectorNumber="99" uuid="2cc86e18-ffbc-4c5f-a694-922332b146cc"/>
         <card number="1" name="Smothering Tithe" setShortName="RNA" collectorNumber="22" uuid="7af082fa-86a3-4f7b-966d-2be1f1d0c0bc"/>
         <card number="1" name="Hallowed Haunting" setShortName="VOW" collectorNumber="17" uuid="674c0a50-9c37-4c29-84d8-eb3e34f34d37"/>
         <card number="1" name="Rhox Faithmender" setShortName="M13" collectorNumber="29" uuid="85ea185a-7b38-49f3-be73-be8180fb6295"/>
         <card number="1" name="Heliod, the Radiant Dawn" setShortName="MOM" collectorNumber="17" uuid="a7113c93-6c6d-410f-aeec-abc5ee121cdf"/>
         <card number="1" name="Restricted Office // Lecture Hall" setShortName="DSK" collectorNumber="227" uuid="ac794b2f-b5ea-449d-bb0b-4f0e6cc145ef"/>
         <card number="1" name="Alela, Artful Provocateur" setShortName="ELD" collectorNumber="324" uuid="726e7dc5-2089-4758-93e1-79212aedf75f"/>
-        <card number="1" name="Aminatou, the Fateshifter" setShortName="C18" collectorNumber="37" uuid="16b9f43a-9c3f-4bfa-9eb1-734189a4bb1f"/>
         <card number="1" name="Soaring Lightbringer" setShortName="DSC" collectorNumber="11" uuid="fc7895bf-a5fe-45bd-bc57-c4abe0703900"/>
         <card number="1" name="Ghostly Dancers" setShortName="DSK" collectorNumber="13" uuid="ab38adb5-8f16-4a4a-8dbc-f6ec14ca6c9f"/>
         <card number="1" name="Ondu Spiritdancer" setShortName="DSC" collectorNumber="101" uuid="ee1c6432-54d7-4b57-a554-f7194d74e03c"/>
@@ -95,11 +87,19 @@
         <card number="1" name="Boon Reflection" setShortName="SHM" collectorNumber="5" uuid="1a27ba4d-53af-427d-9e51-be04db077fac"/>
         <card number="1" name="Sphere of Safety" setShortName="RTR" collectorNumber="24" uuid="ce3bd0d8-7e44-4cf2-9012-8ff0bc39417f"/>
         <card number="1" name="Sigil of the Empty Throne" setShortName="ORI" collectorNumber="31" uuid="386f050c-0233-490f-94ab-92a7b5dc65cf"/>
-        <card number="1" name="Painful Quandary" setShortName="FDN" collectorNumber="179" uuid="05757669-e8a6-4a2f-8479-d4e2ade822ca"/>
         <card number="1" name="Life Insurance" setShortName="DSC" collectorNumber="224" uuid="60e1921e-6c98-4c60-88f4-8fbb6f30236e"/>
-        <card number="1" name="Obzedat, Ghost Council" setShortName="GTC" collectorNumber="182" uuid="4cc198d8-1f27-482d-8f5d-21e02c59797a"/>
         <card number="1" name="Wound Reflection" setShortName="SHM" collectorNumber="81" uuid="b8cf8332-0ff2-40c5-980a-6f6be690fad0"/>
         <card number="1" name="Bolas's Citadel" setShortName="WAR" collectorNumber="79" uuid="d2124603-d20e-40eb-97f0-a66323397ac2"/>
         <card number="1" name="Virtue of Persistence // Locthwain Scorn" setShortName="WOE" collectorNumber="281" uuid="337393e3-9081-4251-b4ca-afd7ce10dc99"/>
+        <card number="1" name="Flooded Strand" setShortName="KTK" collectorNumber="233" uuid="8c2996d9-3287-4480-8c04-7a378e37e3cf"/>
+        <card number="1" name="Godless Shrine" setShortName="EOE" collectorNumber="254" uuid="8c542ea4-98c3-4c2d-9066-205ab7aa697a"/>
+        <card number="1" name="Reflecting Pool" setShortName="SHM" collectorNumber="278" uuid="3d03dc37-03fb-47b2-aa25-60a85d0d94dd"/>
+        <card number="1" name="Aminatou, Veil Piercer" setShortName="DSC" collectorNumber="1" uuid="9f868023-6035-403d-ba91-7a4840c6c392"/>
+        <card number="1" name="Alhammarret's Archive" setShortName="ORI" collectorNumber="221" uuid="70afb856-6697-411b-b1aa-e9290a0bfd68"/>
+        <card number="1" name="Clarion Conqueror" setShortName="TDM" collectorNumber="5" uuid="f892d156-371c-4391-8ae6-25513c5032b0"/>
+        <card number="1" name="Damn" setShortName="DRC" collectorNumber="89" uuid="1b25c224-4531-4fdc-9845-6663eaf60540"/>
+        <card number="1" name="Fracture" setShortName="STX" collectorNumber="188" uuid="a11224f8-06ea-4ec3-85e6-d5c8d906840c"/>
+        <card number="1" name="Wayfarer's Bauble" setShortName="5DN" collectorNumber="165" uuid="3db8fc1d-69fa-4a88-8f12-11fd614aac01"/>
+        <card number="1" name="Deafening Silence" setShortName="ELD" collectorNumber="10" uuid="6072d9b0-d3c7-46f4-bd24-095bb13c4dea"/>
     </zone>
 </cockatrice_deck>
